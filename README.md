@@ -1,4 +1,4 @@
-# 📊 Dataset
+## 📊 Dataset
 
 **Source:** `Iris.csv`
 **Records:** 150 samples (50 per species)
@@ -24,7 +24,7 @@
 
 ## 🔍 Analysis Performed
 
-### 🔢 Data Inspection
+### 1️⃣ Data Inspection
 
 ```python
 df.shape        # Dataset dimensions
@@ -36,7 +36,7 @@ df.describe()   # Statistical summary
 
 ---
 
-## 2️⃣ Visualizations Created
+### 2️⃣ Visualizations Created
 
 | Plot Type | Purpose | Key Insight |
 |-----------|---------|-------------|
@@ -46,7 +46,7 @@ df.describe()   # Statistical summary
 | Pair Plot | Multi-feature overview | Petal dimensions best separate species |
 | Heatmap | Feature correlations | PetalLength ↔ PetalWidth: r ≈ 0.96 |
 
-## 3️⃣ Code Structure (Labelled Cells)
+### 3️⃣ Code Structure (Labelled Cells)
 
 1. Cell 1: Imports
 2. Cell 2: Load & display dataset
