@@ -54,7 +54,7 @@ df.head()         # First 5 rows
 df.info()         # Data types and non-null counts
 df.describe()     # Statistical summary
 
-### 2️⃣ Visualizations Created
+2️⃣ Visualizations Created
 Plot Type
 Purpose
 Key Insight
